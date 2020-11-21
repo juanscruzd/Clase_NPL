@@ -1,4 +1,4 @@
-# Repositorio NPL
+# Repositorio NLP
 
 ![nlp](https://user-images.githubusercontent.com/67706250/99885347-22c7ac80-2c02-11eb-83fa-aa8407a20d1d.png)
 
