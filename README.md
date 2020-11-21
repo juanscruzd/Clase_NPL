@@ -1,7 +1,6 @@
 # Repositorio NPL
 
-
-![Alt text](http://deeplearninganalytics.org/natural-language-processing-machine-learning-why-deep-learning-is-perfect-for-nlp/)
+![nlp](https://user-images.githubusercontent.com/67706250/99885347-22c7ac80-2c02-11eb-83fa-aa8407a20d1d.png)
 
 El presente repositorio recopila scripts con diferentes tecnicas de NLP (Natural Language Processing) acompañados de varios ejemplos practicos y muy utiles, los scripts estan en orden y funcionan de manera ascendente, es decir de menor a mayor dificultad. Pero no te preocupes, nada que una lectura atenta de codigos y un buen cafe frente a tu computador no puedan arreglar. Ojala puedan disfrutar de este mundo del NLP tanto como el autor en el desarrollo de este sitio. 
 
