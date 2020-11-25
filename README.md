@@ -24,5 +24,6 @@ https://www.linkedin.com/in/juan-sebastian-cruz-dionicio-86a12b175/
 
 Gracias por visitar este Repositorio!!!!! 
 
+![nlp2](https://user-images.githubusercontent.com/67706250/100181273-df8e6780-2ea7-11eb-886e-10892a345c3d.jpg)
 
 
