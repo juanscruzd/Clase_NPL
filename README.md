@@ -18,9 +18,12 @@ El presente repositorio recopila scripts con diferentes tecnicas de NLP (Natural
 ### 10. Análisis de Sentimiento
 
 
+
+
 Cualquier comentario o duda respecto a los scripts me pueden contactar mediante mi cuenta de LinkedIn: 
 
 https://www.linkedin.com/in/juan-sebastian-cruz-dionicio-86a12b175/
+
 
 
 Gracias por visitar este Repositorio!!!!! 
