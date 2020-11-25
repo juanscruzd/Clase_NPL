@@ -6,7 +6,7 @@ El presente repositorio recopila scripts con diferentes tecnicas de NLP (Natural
 
 ## Repositorios: 
 
-### 1. Adqusición de Textos
+### 1. Adquisición de Textos
 ### 2. Extracción, pre-procesamiento y normalización de textos
 ### 3. Representación vectorial de textos (Parte I) 
 ### 4. Representación vectorial de textos (Parte 2)
