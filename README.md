@@ -6,17 +6,26 @@ El presente repositorio recopila scripts con diferentes tecnicas de NLP (Natural
 
 ## Repositorios: 
 
-### 1. Adquisición de Textos
-### 2. Extracción, pre-procesamiento y normalización de textos
-### 3. Representación vectorial de textos (Parte I) 
-### 4. Representación vectorial de textos (Parte 2)
-### 5. Representación vectorial de textos (Parte 3)
-### 6. Agrupación de Textos con K-Means
-### 7. Modelado de Temas
-### 8. Visualizaciones para NLP
-### 9. Redes Sociales y NLP
-### 10. Análisis de Sentimiento
-
+### 1. Adquisición de Textos: 
+https://github.com/juanscruzd/Clase_NPL/blob/master/Taller%202%20-%20JSCD.ipynb
+### 2. Extracción, pre-procesamiento y normalización de textos: 
+https://github.com/juanscruzd/Clase_NPL/blob/master/Taller%203%20-%20Pre-Procesamiento%20de%20Textos%20-%20JSCD.ipynb
+### 3. Representación vectorial de textos (Parte I): 
+https://github.com/juanscruzd/Clase_NPL/blob/master/Taller%204%20-%20Feature%20Engineering%20-%20JSCD.ipynb
+### 4. Representación vectorial de textos (Parte 2): 
+https://github.com/juanscruzd/Clase_NPL/blob/master/Taller%205%20-%20TFIDF%20-%20JSCD.ipynb
+### 5. Representación vectorial de textos (Parte 3): 
+https://github.com/juanscruzd/Clase_NPL/blob/master/Taller%206%20-%20Word2Vec%20-%20JSCD.ipynb
+### 6. Agrupación de Textos con K-Means: 
+https://github.com/juanscruzd/Clase_NPL/blob/master/Taller%207%20-%20ClassificationKMeans.ipynb
+### 7. Modelado de Temas: 
+https://github.com/juanscruzd/Clase_NPL/blob/master/Taller%208%20-%20Modelado%20de%20Temas.ipynb
+### 8. Visualizaciones para NLP: 
+https://github.com/juanscruzd/Clase_NPL/blob/master/Taller%238_visualizaciones.ipynb
+### 9. Redes Sociales y NLP:
+https://github.com/juanscruzd/Clase_NPL/blob/master/Taller%2010%20-%20Twitter.ipynb
+### 10. Análisis de Sentimiento: 
+https://github.com/juanscruzd/Clase_NPL/blob/master/Taller%2011%20-%20Sentimiento.ipynb
 
 
 
